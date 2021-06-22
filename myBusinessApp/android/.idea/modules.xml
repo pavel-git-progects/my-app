@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloWorld.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HelloWorld.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HelloWorld.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/276992192/HelloWorld.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/276992192/HelloWorld.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2054517737/HelloWorld.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-2054517737/HelloWorld.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-799367259/HelloWorld.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-799367259/HelloWorld.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1944779456/HelloWorld.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1944779456/HelloWorld.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-925054248/HelloWorld.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-925054248/HelloWorld.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1271910603/HelloWorld.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1271910603/HelloWorld.react-native-svg.iml" />
+    </modules>
+  </component>
+</project>
